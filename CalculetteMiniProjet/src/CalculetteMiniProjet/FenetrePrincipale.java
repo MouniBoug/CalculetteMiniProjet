@@ -1,7 +1,10 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+
+ * Les étudiants: 
+ * Bouguelaa Mounir         Groupe 02   
+ * Bouras Moncef Sofian     Groupe 02
+ * Zerari Akrem
+ 
  */
 package CalculetteMiniProjet;
 
